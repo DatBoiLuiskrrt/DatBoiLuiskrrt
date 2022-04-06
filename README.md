@@ -8,3 +8,4 @@
 ## [Linkedin](https://www.linkedin.com/in/datboiluiskrrt/)
 
 
+https://img.shields.io/github/followers/datboiluiskrrt?style=social
