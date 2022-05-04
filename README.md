@@ -37,8 +37,8 @@
 <br/>
 
 <a href="https://github.com/DatBoiLuiskrrt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datboiluiskrrt8&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datboiluiskrrt8&theme=buefy&layout=compact" />
 </a>
 
 <br/>
