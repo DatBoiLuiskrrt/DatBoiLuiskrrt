@@ -52,7 +52,7 @@ This Creates your branch remotely and pushes the changes to that branch - please
 Thanks goes to these amazing people:
 <table>
 <tr><td align="center"><a href="https://github.com/DatBoiLuiskrrt"><img src="https://avatars.githubusercontent.com/u/42678545?v=4" width="90px;" alt="Luis Hernandez"/><br /><sub><b>Luis Hernandez</b></sub></a>
-  <tr><td align="center"><a href="[https://github.com/DatBoiLuiskrrt](https://github.com/Clay467)"><img src="https://avatars.githubusercontent.com/u/96357194?v=4" width="90px;" alt="Luis Hernandez"/><br /><sub><b>Clayton Gall</b></sub></a>
+  <tr><td align="center"><a href="https://github.com/Clay467"><img src="https://avatars.githubusercontent.com/u/96357194?v=4" width="90px;" alt="Luis Hernandez"/><br /><sub><b>Clayton Gall</b></sub></a>
 </table>
 <h2> Hey there! I'm Luis.</h2>
 
