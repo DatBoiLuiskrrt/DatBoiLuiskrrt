@@ -44,17 +44,17 @@ Pushing:
 
 ### Gitbash
 Setup:
-`git config --global user.name [firstname.lastname]`
-`git config --global user.email [email]`
+```git config --global user.name [firstname.lastname]```
+```git config --global user.email [email]```
 
 Clone:
   1. Navigate to project directory
-  `git clone [url] --branch [new_branch]`
+  ```git clone [url] --branch [new_branch]```
   
 Push:
-  `git add .`
-  `git commit -m "my message"`
-  `git push`
+  ```git add .```
+  `git commit -m "my message"```
+  ```git push```
 
 
 
