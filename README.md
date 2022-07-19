@@ -12,6 +12,7 @@
 5. Select Clone, once done repository should be able to be opened with Vistual Studio.
 
 
+
  ## Using Gitbash
 1. Clone your repo - this will pull the files down to your local machine so you can work on them and make changes - to do this click the HTPP or SSH button if you have set up a SSH key. Copy the url in the box.
 2. Inside your terminal or gitbash navigate to where you want to put there files on your computer and type git clone and paste the url and then press enter.
@@ -36,7 +37,7 @@ To save all changes you've made so far to the staging area.
 ```
 Commit changes - your should be writing clear commit messages to let the next developer know what changes you've made.
 ```sh
-    git commint -m "[your commit message]"
+    git commit -m "your commit message"
 ```
 This Creates your branch remotely and pushes the changes to that branch - please note that the branch name should be the same as the branch that you saved to.
 ```sh
