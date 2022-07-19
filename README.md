@@ -1,3 +1,78 @@
+# PF_CaresDotCom
+
+## Git flow step by step
+
+
+### Git: Feature Branch Workflow
+
+1. Create a branch [userStoreNumber_whatIsTheTicketAbout].
+2. Clone branch to local directory.
+3. Make changes
+4. Push to [new_branch]
+5. Create a merge request to development
+6. Test Development
+7. Create a merge request from Development to Master
+8 Delete [new_branch]
+
+### GitLab
+
+Creating branches:
+  1. Navigate to GitLab Project.
+  2. Select branches.
+  3. Select new branch.
+  
+Merge Requesting:
+  1. Navigate to GitLab project.
+  2. Select branches.
+  3. Navigate to relevant branch.
+  4. Select + Merge Request.
+  5. Source branch is Delevopment/Mater.
+  
+### SourceTree
+Cloning:
+  1. Source Path: HTTP URL
+  2. Destination Path: project directoy
+  3. Name: name
+  4. Advanced Options
+  [insert image here]
+  
+Pushing:
+  1. +Commit
+  2. Choose which files to Stage
+  3. Commit
+  [insert image here]
+
+### Gitbash
+Setup:
+`git config --global user.name [firstname.lastname]`
+`git config --global user.email [email]`
+
+Clone:
+  1. Navigate to project directory
+  `git clone [url] --branch [new_branch]`
+  
+Push:
+  `git add .`
+  `git commit -m "my message"`
+  `git push`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2> Hey there! I'm Luis.</h2>
 
