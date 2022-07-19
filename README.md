@@ -14,15 +14,17 @@
 
 
  ## Using Gitbash
-1. Clone your repo - this will pull the files down to your local machine so you can work on them and make changes - to do this click the HTPP or SSH button if you have set up a SSH key. Copy the url in the box.
+1. Clone your repo - this will pull the files down to your local machine so you can work on them and make changes - to do this click the HTTP or SSH button if you have already set up a SSH key. Copy the url in the box.
 2. Inside your terminal or gitbash navigate to where you want to put there files on your computer and type git clone and paste the url and then press enter.
-3. cd into your new repository by typing cd and then the repo name.
-4. Open your project up in VS studio.
-5. You must work on the Develoment branch unless stated otherwise, to switch to the development branch you must:
+```sh
+    git clone "[repo-url
+```
+3. Open your project up in VS studio 2019.
+4. You must work on the Develoment branch unless stated otherwise, to switch to the development branch you must:
 ```sh
     git checkout clay_test_branch
 ```
-6. When you are ready to push some changes you will need to go through the following commands
+5. When you are ready to push some changes you will need to go through the following commands
 Update your local main
 ```sh
     git pull master
@@ -41,7 +43,7 @@ Commit changes - your should be writing clear commit messages to let the next de
 ```
 This Creates your branch remotely and pushes the changes to that branch - please note that the branch name should be the same as the branch that you saved to.
 ```sh
-    git push -u origin [branch-name - clay_test_branch]
+    git push -u origin ["branch name - clay_test_branch"]
 ```
 7. Once you are finished, you can go ahead and create a pull request. The purpose of a pull request is to let your team know that there are changes to review. **Please do not merge your own pull requests.**
 ## Contributors
