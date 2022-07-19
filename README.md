@@ -1,5 +1,9 @@
+## Contributors
 
-
+Thanks goes to these amazing people:
+<table>
+<tr><td align="center"><a href="https://github.com/DatBoiLuiskrrt"><img src="https://avatars.githubusercontent.com/u/42678545?v=4" width="90px;" alt="Luis Hernandez"/><br /><sub><b>Luis Hernandez</b></sub></a>
+</table>
 <h2> Hey there! I'm Luis.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
