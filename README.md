@@ -25,6 +25,7 @@
     git checkout "clay_test_branch"
 ```
 5. When you are ready to push some changes you will need to go through the following commands
+
 Update your local main
 ```sh
     git pull master
